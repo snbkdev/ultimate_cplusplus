@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(lesson_17 main.cpp
         Rectangle.cpp
-        Rectangle.h)
+        Rectangle.h
+        SmartPointer.cpp
+        SmartPointer.h)
